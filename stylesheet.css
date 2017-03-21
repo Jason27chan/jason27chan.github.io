@@ -1,4 +1,8 @@
-image {
+img {
 	padding: 5dpi;
 	width: 50%;
+}
+
+* {
+	background-color: #e6ac00;
 }
